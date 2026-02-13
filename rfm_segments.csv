@@ -1,0 +1,1 @@
+rfm.to_csv('rfm_segments.csv')
